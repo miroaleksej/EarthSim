@@ -4,7 +4,7 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/yourrepo&label=Visitors&countColor=%23263759)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=earthsim.earthsim)
+
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
