@@ -1,22 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-EarthSim: Advanced Geospatial Simulation System
-
-Scientifically rigorous implementation for geospatial analysis, DEM processing,
-and geological simulations with High-Performance Computing integration.
-
-This production-ready implementation incorporates all critical improvements:
-- Optimized performance for large-scale DEM processing
-- Scientifically validated models for geological processes
-- Enhanced security for data handling
-- Advanced hydrological and climate modeling
-- Comprehensive HPC integration
-
-Version: 2.0
-Date: 2025-08-02
-"""
-
 import os
 import sys
 import time
