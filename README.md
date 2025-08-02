@@ -2,6 +2,7 @@
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/148721e2-1c45-4a85-be33-d4c60baa235b" />
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/yourrepo&label=Visitors&countColor=%23263759)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=earthsim.earthsim)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
