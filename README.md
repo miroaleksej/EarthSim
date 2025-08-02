@@ -1,5 +1,8 @@
 # 🌍 EarthSim: Advanced Geospatial Simulation System
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/148721e2-1c45-4a85-be33-d4c60baa235b" />
+
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=earthsim.earthsim)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
