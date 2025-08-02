@@ -1,6 +1,5 @@
 # EarthSim: Complete Geospatial Simulation System
 
-Based on your `текст.txt` file, I've created a complete, production-ready implementation of a geospatial simulation system with Digital Elevation Model (DEM) processing and geological simulation capabilities. This is not a simplified demo but a scientifically rigorous implementation ready for real-world use.
 
 ## Complete Implementation
 
