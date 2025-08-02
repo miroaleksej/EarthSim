@@ -4,21 +4,6 @@
 ## Complete Implementation
 
 ```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-EarthSim: Complete Geospatial Simulation System
-
-Scientifically rigorous implementation for geospatial analysis, DEM processing,
-and geological simulations with High-Performance Computing integration.
-
-This is a production-ready implementation without simplifications,
-designed for scientific research and real-world applications.
-
-Version: 1.0
-Date: 2025-08-02
-"""
-
 import os
 import sys
 import time
