@@ -1,23 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-EarthSim: Advanced Geospatial Simulation System (Version 2.1)
-
-Scientifically rigorous implementation for geospatial analysis, DEM processing,
-and geological simulations with enhanced validation and improved terminology.
-
-This production-ready implementation incorporates all critical improvements:
-- Renamed "Topological Entropy" to "Topological Complexity Index" (per reviewer feedback)
-- Enhanced climate model with stochastic terms
-- Clarified global vs. local Betti number interpretation
-- Integration with reference datasets (ETOPO1, GLIM, PaleoMAP)
-- Comparison metrics with mainstream tools (LandLab, Badlands)
-- Jupyter notebook compatibility
-
-Version: 2.1
-Date: 2025-08-02
-"""
-
 import os
 import sys
 import time
