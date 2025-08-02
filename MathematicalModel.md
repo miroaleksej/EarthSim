@@ -254,7 +254,9 @@ where $N$ is the number of grid cells and $T$ is the tile size.
 *Proof:* The speedup comes from parallel processing on the GPU and reduced memory access patterns with tiling. $\blacksquare$
 
 **Theorem 15 (Hydrological Accuracy):** The hydrological analysis algorithm computes flow accumulation with relative error bounded by:
-$$\frac{|A_{\text{computed}} - A_{\text{true}}|}{A_{\text{true}}}} \leq C \cdot \delta$$
+$$
+\frac{|A_{\text{computed}} - A_{\text{true}}|}{A_{\text{true}}} \leq C \cdot \delta
+$$
 where $\delta$ is the DEM resolution and $C$ is a constant.
 
 *Proof:* The error is proportional to the discretization error in the DEM, which decreases with higher resolution. $\blacksquare$
