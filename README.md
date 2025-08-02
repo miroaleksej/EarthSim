@@ -238,7 +238,7 @@ If EarthSim contributes to your research, please cite us:
   year = {2025},
   version = {2.1},
   doi = {10.5281/zenodo.1234567},
-  url = {https://github.com/earthsim/earthsim}
+  url = {[https://github.com/miroaleksej/earthsim/earthsim](https://github.com/miroaleksej/EarthSim)}
 }
 ```
 
